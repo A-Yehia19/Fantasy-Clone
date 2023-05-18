@@ -1,3 +1,10 @@
+
 # Fantasy VIIX
-This is a fantasy mobile application clone
-Implemented with Flutter
+
+A clone of the Fantasy App
+
+---
+
+created using flutter!
+
+still under development :D
